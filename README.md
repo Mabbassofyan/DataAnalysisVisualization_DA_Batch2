@@ -1,5 +1,5 @@
 **DataAnalysisVisualization_DA_Batch2**
-
+---  ------         --------------  -----      
 **Intro:**
 
 Our project aims to analyse the rating of the best 1000 film on IMDB website using numpy, pandas, matplotlib.pyplot, and seaborn libraries.
