@@ -15,23 +15,28 @@ Our dataset has different information regarding films contained in a total of 16
 **Data columns:**
 
           
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1000 entries, 0 to 999
+Data columns (total 16 columns):
+ #   Column         Non-Null Count  Dtype         
 ---  ------         --------------  -----         
- 0   Poster_Link                           
- 1   Series_Title   898 non-null    object        
- 2   Released_Year  898 non-null    datetime64[ns]
- 3   Certificate    898 non-null    object        
- 4   Runtime        898 non-null    object        
- 5   Genre          898 non-null    object        
- 6   IMDB_Rating    898 non-null    float64       
- 7   Overview       898 non-null    object        
- 8   Meta_score     898 non-null    float64       
- 9   Director       898 non-null    object        
- 10  Star1          898 non-null    object        
- 11  Star2          898 non-null    object        
- 12  Star3          898 non-null    object        
- 13  Star4          898 non-null    object        
- 14  No_of_Votes    898 non-null    int64         
- 15  Gross          898 non-null    float64       
+ 0   Poster_Link    1000 non-null   object        
+ 1   Series_Title   1000 non-null   object        
+ 2   Released_Year  999 non-null    datetime64[ns]
+ 3   Certificate    899 non-null    object        
+ 4   Runtime        1000 non-null   object        
+ 5   Genre          1000 non-null   object        
+ 6   IMDB_Rating    1000 non-null   float64       
+ 7   Overview       1000 non-null   object        
+ 8   Meta_score     1000 non-null   float64       
+ 9   Director       1000 non-null   object        
+ 10  Star1          1000 non-null   object        
+ 11  Star2          1000 non-null   object        
+ 12  Star3          1000 non-null   object        
+ 13  Star4          1000 non-null   object        
+ 14  No_of_Votes    1000 non-null   int64         
+ 15  Gross          1000 non-null   float64       
+     
 ---  ------         --------------  -----  
 
 **Steps:**
