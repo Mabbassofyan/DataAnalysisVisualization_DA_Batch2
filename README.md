@@ -1,4 +1,4 @@
-#DataAnalysisVisualization_DA_Batch2
+**DataAnalysisVisualization_DA_Batch2**
 
 #Intro:
 
