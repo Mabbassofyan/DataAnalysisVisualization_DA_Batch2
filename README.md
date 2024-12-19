@@ -14,7 +14,7 @@ Our dataset has different information regarding films contained in a total of 16
 
 **Data columns:**
 
- #   Column         Non-Null Count  Dtype         
+ #   Column               
 ---  ------         --------------  -----         
  0   Poster_Link    898 non-null    object        
  1   Series_Title   898 non-null    object        
