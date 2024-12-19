@@ -13,6 +13,7 @@ To help identify audience preferences, which can make us focus more on specific 
 Our dataset has different information regarding films contained in a total of 16 columns.
 
 Data columns:
+
  #   Column         Non-Null Count  Dtype         
 ---  ------         --------------  -----         
  0   Poster_Link    898 non-null    object        
@@ -36,8 +37,13 @@ Data columns:
 #Steps:
 
 •	Importing the libraries
+
 •	Choosing the data
+
 •	Cleaning the data and removing outliers along with null values
+
 •	Organizing the data
+
 •	Analyzing the data
+
 •	Representing the data using various visualization means
