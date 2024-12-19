@@ -1,18 +1,18 @@
 **DataAnalysisVisualization_DA_Batch2**
 
-#Intro:
+**Intro:**
 
 Our project aims to analyse the rating of the best 1000 film on IMDB website using numpy, pandas, matplotlib.pyplot, and seaborn libraries.
 
-#Objective:
+**Objective:**
 
 To help identify audience preferences, which can make us focus more on specific genres prioritizing the acquisation or production of more content in popular genres like Drama, Action, and Crime. Also helping production companies make the best decision in terms of film production.
 
-#About Dataset:
+**About Dataset:**
 
 Our dataset has different information regarding films contained in a total of 16 columns.
 
-Data columns:
+**Data columns:**
 
  #   Column         Non-Null Count  Dtype         
 ---  ------         --------------  -----         
@@ -34,7 +34,7 @@ Data columns:
  15  Gross          898 non-null    float64       
 ---  ------         --------------  -----  
 
-#Steps:
+**Steps:**
 
 •	Importing the libraries
 
