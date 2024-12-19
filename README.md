@@ -14,9 +14,9 @@ Our dataset has different information regarding films contained in a total of 16
 
 **Data columns:**
 
- #   Column               
+          
 ---  ------         --------------  -----         
- 0   Poster_Link    898 non-null    object        
+ 0   Poster_Link                           
  1   Series_Title   898 non-null    object        
  2   Released_Year  898 non-null    datetime64[ns]
  3   Certificate    898 non-null    object        
