@@ -18,7 +18,7 @@ Our dataset has different information regarding films contained in a total of 16
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 1000 entries, 0 to 999
 Data columns (total 16 columns):
- #   Column         Non-Null Count  Dtype         
+ No   Column         Non-Null Count  Dtype         
 ---  ------         --------------  -----         
  0   Poster_Link    1000 non-null   object        
  1   Series_Title   1000 non-null   object        
