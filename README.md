@@ -2,7 +2,7 @@
 ---  ------         --------------  -----      
 **Intro:**
 
-Our project aims to analyse the rating of the best 1000 film on IMDB website using numpy, pandas, matplotlib.pyplot, and seaborn libraries.
+Our project aims to analyse the rating of the best 1000 film on IMDB website using numpy, pandas, matplotlib.pyplot, and seaborn libraries. In addition, predicting IMDB rating based on gross and runtime along with classifying IMDB rating as "High" or "Low" based on gross and runtime.  
 
 **Objective:**
 
@@ -52,7 +52,47 @@ Our dataset has different information regarding films contained in a total of 16
 
  ---  ------         --------------  -----  
 
-**Steps:**
+
+## Project Workflow
+
+The project is structured around the following key phases:
+
+1. **Data Acquisition and Preprocessing:**
+    * Obtaining the IMDB top 1000 films dataset.
+    * Cleaning the data by handling missing values, removing outliers, and ensuring data consistency.
+    * Transforming data into a suitable format for analysis.
+
+2. **Exploratory Data Analysis (EDA):**
+    * Investigating the distributions of key variables (e.g., IMDB rating, runtime, gross).
+    * Identifying relationships between variables using correlation analysis and visualization techniques.
+    * Exploring patterns and trends within different movie genres and release years.
+
+3. **Statistical Modeling:**
+    * Building predictive models to understand the factors influencing IMDB ratings.
+    * Utilizing regression models to estimate the relationship between features and ratings.
+    * Evaluating model performance using metrics like Mean Squared Error (MSE) and R-squared.
+
+4. **Data Visualization and Reporting:**
+    * Creating insightful visualizations (histograms, scatter plots, box plots, etc.) to communicate findings effectively.
+    * Generating comprehensive reports summarizing the key insights and recommendations derived from the analysis.
+
+5. **Regression and Classification:**
+    * Creating insightful predections.
+    * Generating comprehensive predections and recommendations.
+      
+
+## Technologies Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Regression Model
+* Classification Model
+
+  
+## Steps:
 
 •	Importing the libraries
 
@@ -64,4 +104,9 @@ Our dataset has different information regarding films contained in a total of 16
 
 •	Analyzing the data
 
-•	Representing the data using various visualization means
+•         Representing the data using various visualization means
+
+•	Predicting IMDB rating based on gross and runtime.
+
+•	Classifying IMDB rating as "High" or "Low" based on gross and runtime.
+
